@@ -2,7 +2,7 @@
 LittleRP2 Open Source Resin Printer  
 www.littlerp2.com
 
---
+---
 
 ## About
 
@@ -34,7 +34,7 @@ The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http:/
 - 25 Micron X/Y options for Acer X152H and Optoma HD37 projectors.
 - Astrosyn dampner decouples leadscrew non-eccentricity.
 
---
+---
 
 ## LittleRP2 (Standard Height)
 ![alt text](http://i.imgur.com/vZLMnu6l.jpg "LittleRP2")![alt text](http://i.imgur.com/f9xXAVMl.jpg "LittleRP2")
@@ -45,14 +45,30 @@ The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http:/
 ## LittleRP2 Extended Build Area (Option)
 ![alt text](http://i.imgur.com/xJ0F0O2l.jpg "LittleRP2 Extended Build Area")
 
---
+---
+
+## Build Guiides
+
+LittleRP2 Build Guide
+- (http://imgur.com/a/cm6a2)
+
+LittleRP2 Tall Variant Build Guide
+- (http://imgur.com/a/tlTSK)
+
+LittleRP2 Integrated Vat Build Guide
+- (http://imgur.com/a/Z1Eb6)
+
+LittleRP2 Expanded Build Area Option Build Guide
+- (http://imgur.com/a/ujMIq)
+
+---
 
 ## Source File Organization:
 
 DXF - DXF files for lasercut parts.  
 STL - STL files for 3D printed parts.
 
---
+---
 
 LittleRP2 Hardware / Software is licensed under the Creative Commons BY-SA 3.0 or greater license: https://creativecommons.org/licenses/by-sa/3.0/
 
