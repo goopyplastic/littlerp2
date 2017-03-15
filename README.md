@@ -4,6 +4,7 @@ www.littlerp2.com
 
 ---
 
+
 ## About
 
 The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http://www.littlerp.com) that adds additional functionality as well as refinements. Some of the primary differences between the LittleRP and the LittleRP2 are:
@@ -36,16 +37,20 @@ The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http:/
 
 ---
 
-## LittleRP2 (Standard Height)
+
+## Configurations
+
+### LittleRP2 (Standard Height)
 ![alt text](http://i.imgur.com/vZLMnu6l.jpg "LittleRP2")![alt text](http://i.imgur.com/f9xXAVMl.jpg "LittleRP2")
 
-## LittleRP2 Extended Height
+### LittleRP2 Extended Height
 ![alt text](http://i.imgur.com/09GMzy9l.jpg "LittleRP2 Extended Height")![alt text](http://i.imgur.com/jRWkJpEl.jpg "LittleRP2 Extended Height")
 
-## LittleRP2 Extended Build Area (Option)
+### LittleRP2 Extended Build Area (Option)
 ![alt text](http://i.imgur.com/xJ0F0O2l.jpg "LittleRP2 Extended Build Area")
 
 ---
+
 
 ## Build Guiides
 
@@ -62,6 +67,7 @@ LittleRP2 Expanded Build Area Option Build Guide
 - (http://imgur.com/a/ujMIq)
 
 ---
+
 
 ## Source File Organization:
 
