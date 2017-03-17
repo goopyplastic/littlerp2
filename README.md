@@ -78,6 +78,12 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 ---
 
 
+## Discussion Thread
+- (http://www.buildyourownsla.com/forum/viewtopic.php?f=19&t=5717)
+
+---
+
+
 ## Build Guiides
 
 LittleRP2 Build Guide
