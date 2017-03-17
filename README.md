@@ -38,6 +38,32 @@ The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http:/
 ---
 
 
+## Build Size:
+Dimensions vary depending on selected projector but typically projection sizes for the standard height LittleRP2 are:
+
+X: 60-72mm / 110-120mm (w/ Extended Build Area Addon)
+Y: 42-45mm / 70-75mm (w/ Extended Build Area Addon)
+Z: 100mm / 200mm (w/ Extended Height Version)
+
+(Build size is now expandable up to 120mm (x) 80mm (y) with the new Extended Build Area Addon).
+
+---
+
+
+## Recommended Projectors:
+- Acer X152H (25 micron x/y capable) NEW
+- Optoma HD37 (25 micron x/y capable) NEW
+- Acer P1283
+- Acer X1240
+- Acer H5380BD NEW
+- Hitachi CP-DX250 / CP-DX300 (Same as Acer X1240)
+- Acer P1500 (May have focus issues)
+- Acer H6510BD (May have focus issues)
+- ViewSonic PJD7820HD (Same as Acer P1500) (May have focus issues)
+
+---
+
+
 ## Configurations
 
 ### LittleRP2 (Standard Height)
