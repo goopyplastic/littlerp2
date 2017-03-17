@@ -9,7 +9,7 @@ www.littlerp2.com
 
 The LittleRP2 is the an update to the LittleRP Open Source Resin Printer (http://www.littlerp.com) that adds additional functionality as well as refinements. Some of the primary differences between the LittleRP and the LittleRP2 are:
 
-#### Kits are currently available in the LittleRP web store: (littlerp.bigcartel.com)
+#### Kits are currently available in the LittleRP web store: (http://littlerp.bigcartel.com)
 
 ### Flexibilty:
 - Wider foodprint to allow for additional vat options
