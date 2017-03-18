@@ -58,6 +58,7 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 - Acer P1283
 - Acer X1240
 - Acer H5380BD NEW
+- Viewsonic PJD5255 NEW
 - Hitachi CP-DX250 / CP-DX300 (Same as Acer X1240)
 - Acer P1500 (May have focus issues)
 - Acer H6510BD (May have focus issues)
