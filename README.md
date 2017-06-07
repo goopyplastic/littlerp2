@@ -64,6 +64,9 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 - Acer H6510BD (May have focus issues)
 - ViewSonic PJD7820HD (Same as Acer P1500) (May have focus issues)
 
+### Projector Mounting Posistions
+- (http://imgur.com/a/wpWsU)
+
 ---
 
 ## Configurations
