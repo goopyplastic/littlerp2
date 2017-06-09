@@ -58,9 +58,13 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 - Acer X152H (25 micron x/y capable) NEW
     * (https://callmevice.com/2016/02/03/modifying-the-acer-x152h-projector-to-work-with-a-dlp-3d-printer/)
 - Optoma HD37 (25 micron x/y capable) NEW
+    * (Use +7 or +10 diopter close-up filters)
 - Acer P1283
+    * (https://www.youtube.com/watch?v=d2-g494IS9s)
 - Acer X1240
+    * (http://imgur.com/a/FOgXW)
 - Acer H5380BD NEW
+    * (Modification Identical to P1283)
 - Viewsonic PJD5255 NEW
 - Hitachi CP-DX250 / CP-DX300 (Same as Acer X1240)
 
