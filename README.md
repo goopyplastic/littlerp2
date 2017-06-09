@@ -53,13 +53,18 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 
 
 ## Recommended Projectors:
+
+### Require Focus Modification
 - Acer X152H (25 micron x/y capable) NEW
+    (https://callmevice.com/2016/02/03/modifying-the-acer-x152h-projector-to-work-with-a-dlp-3d-printer/)
 - Optoma HD37 (25 micron x/y capable) NEW
 - Acer P1283
 - Acer X1240
 - Acer H5380BD NEW
 - Viewsonic PJD5255 NEW
 - Hitachi CP-DX250 / CP-DX300 (Same as Acer X1240)
+
+### Don't Require Focus Modification
 - Acer P1500 (May have focus issues)
 - Acer H6510BD (May have focus issues)
 - ViewSonic PJD7820HD (Same as Acer P1500) (May have focus issues)
