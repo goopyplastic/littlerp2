@@ -122,6 +122,17 @@ STL - STL files for 3D printed parts.
 
 ---
 
+
+## Bill of Materials
+
+LittleRP 2 BOM Checklist - Fastener Box Sub-Bags
+- (https://drive.google.com/open?id=1yqt8eWypYL61TpWnnlkjNs6nJOw5RkLmACgm6qkCx2w)
+
+LittleRP 2 BOM Checklist - Packing
+- (https://drive.google.com/open?id=1wPVTCZptSK_STgUEYxKO7_aabrpSXejBZ3x2O9j5VzU)
+
+---
+
 LittleRP2 Hardware / Software is licensed under the Creative Commons BY-SA 3.0 or greater license: https://creativecommons.org/licenses/by-sa/3.0/
 
 You are free to:  
