@@ -98,7 +98,7 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 ---
 
 
-## Build Guiides
+## Build Guides
 
 LittleRP2 Build Guide
 - (http://imgur.com/a/cm6a2)
