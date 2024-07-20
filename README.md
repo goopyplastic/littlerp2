@@ -53,7 +53,7 @@ Z: 100mm / 200mm (w/ Extended Height Version)
 
 ### Require Focus Modification
 - Acer X152H (25 micron x/y capable) NEW
-    * (https://callmevice.com/2016/02/03/modifying-the-acer-x152h-projector-to-work-with-a-dlp-3d-printer/)
+    * (link removed)
 - Optoma HD37 (25 micron x/y capable) NEW
     * (Use +7 or +10 diopter close-up filters)
 - Acer P1283
